@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 Given('I click on OK button') do
   find_element(id: 'android:id/button1').click
 end
