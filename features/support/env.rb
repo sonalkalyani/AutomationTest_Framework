@@ -9,7 +9,8 @@ def caps
     appActivity: "com.sphinx_solution.Launcher",
     newCommandTimeout: "3600"
 
-  } }
+    }
+  }
 end
 
 Appium::Driver.new(caps,true)

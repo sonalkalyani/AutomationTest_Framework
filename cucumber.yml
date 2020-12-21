@@ -1,1 +1,1 @@
-home: -t @Home_Page --format html --out report.html --format pretty
+home: -t @Profile_Screen --format html --out report.html --format pretty
